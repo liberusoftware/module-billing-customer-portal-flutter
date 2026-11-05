@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-customer-portal-flutter",
+  "capabilityKey": "liberusoftware/module-billing-customer-portal",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_customer_portal_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/customer-portal.md",
+  "presentationPlan": "projects/billing/flutter/customer-portal.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
